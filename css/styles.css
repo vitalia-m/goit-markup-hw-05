@@ -641,6 +641,9 @@ img {
   position: relative;
   margin-bottom: 8px;
 }
+.form-wrapper-cont-area {
+  margin-bottom: 16px;
+}
 .form-user-label {
   display: block;
   margin-bottom: 4px;
