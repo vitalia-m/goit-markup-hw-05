@@ -657,7 +657,6 @@ img {
   outline: transparent;
   border-radius: 4px;
   padding-left: 38px;
-  outline: none;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .form-user-input:focus {
